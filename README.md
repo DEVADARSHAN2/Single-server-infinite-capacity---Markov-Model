@@ -19,7 +19,7 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
  
 ## Program
 ```
-Name: DEVADARSHAN A S
+DEVELOPED BY : DEVADARSHAN A S
 Reg: 21222211007
 ```
 ```python
